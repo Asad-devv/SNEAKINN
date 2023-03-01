@@ -1,4 +1,4 @@
-import heroimg from "../assets/herof.png";
+import heroimg from "";
 
 import hightlightimg from "../assets/hightlightimg.png";
 import sneakershoe from "../assets/sneaker.png";

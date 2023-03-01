@@ -185,8 +185,8 @@ const Hero = ({
           </div>
           <div className="flex items-center">
             <img
-              src={img}
-              alt="hero-img/img"
+              src="src/assets/herof.png"
+              alt="src/assets/hero copy.png"
               className="w-[65vh] md:w-[24vh] h-[65vh] lg:h-[40vh] lg:w-auto md:h-[26vh] sm:w-[27vh] sm:h-[25vh] xsm:h-[19vh] rotate-12 transitions-theme hover:rotate-0 cursor-pointer object-fill  "
             />
           </div>
